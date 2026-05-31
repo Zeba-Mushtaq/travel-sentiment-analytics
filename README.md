@@ -18,3 +18,9 @@ TripAdvisor Hotel Reviews — 515K reviews (Kaggle)
 
 ## 🚀 Status
 🔄 In Progress
+## 📊 Progress
+- [x] Repository setup
+- [x] Dataset selected (TripAdvisor Hotel Reviews)
+- [x] EDA notebook created
+- [ ] Sentiment Analysis
+- [ ] Dashboard
