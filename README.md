@@ -26,3 +26,6 @@ TripAdvisor Hotel Reviews — 515K reviews (Kaggle)
 - [ ] Dashboard
 ## 📓 View Notebook
 [![nbviewer](https://img.shields.io/badge/View-Notebook-orange?logo=jupyter)](https://nbviewer.org/github/Zeba-Mushtaq/travel-sentiment-analytics/blob/main/travel-sentiment-analytics-tripadvisor-reviews.ipynb)
+
+## 🚀 Live Demo
+[![Streamlit App](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://travel-sentiment-zeba.streamlit.app)
