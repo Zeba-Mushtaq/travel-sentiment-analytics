@@ -22,8 +22,9 @@ TripAdvisor Hotel Reviews — 515K reviews (Kaggle)
 - [x] Repository setup
 - [x] Dataset selected (TripAdvisor Hotel Reviews)
 - [x] EDA notebook created
-- [ ] Sentiment Analysis
-- [ ] Dashboard
+- [x] Sentiment Analysis
+- [x] Dashboard
+Project has been completed
 ## 📓 View Notebook
 [![nbviewer](https://img.shields.io/badge/View-Notebook-orange?logo=jupyter)](https://nbviewer.org/github/Zeba-Mushtaq/travel-sentiment-analytics/blob/main/travel-sentiment-analytics-tripadvisor-reviews.ipynb)
 
